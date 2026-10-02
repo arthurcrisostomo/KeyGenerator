@@ -2,6 +2,8 @@
 
 Aplicação desktop em Python com interface gráfica (Tkinter) para gerar senhas aleatórias e seguras. Você escolhe os tipos de caracteres e a quantidade, e o programa gera a senha na hora.
 
+<img width="512" height="542" alt="print" src="https://github.com/user-attachments/assets/51756f88-fd95-4006-a2f5-174e4072e380" />
+
 ## Funcionalidades
 
 - Escolha dos tipos de caracteres da senha:
